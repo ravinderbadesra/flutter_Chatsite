@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212735711966",
+    "project_id": "newdemoproject-de21b",
+    "storage_bucket": "newdemoproject-de21b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212735711966:android:82c9cf1723659d11aec04f",
+        "android_client_info": {
+          "package_name": "com.example.chatappfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYdHwyR45za-1QQBeNqzKS6_fZ_b0IjSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
